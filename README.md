@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **MERN, MEAN Projects**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack and RoR**
 
 - 📫 How to reach me **daniel.amaya.buitrago@outlook.com**
 
