@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN Stack and RoR**
 
-- 📫 How to reach me **daniel.amaya.buitrago@outlook.com**
+- 📫 How to reach me **iamdevdan@outlook.com**
 
 - ⚡ Fun fact **Love Waterpolo**
 
