@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Getting my skills to the next level**
 
-- 🌱 I’m currently learning **AWS & AZURE CI/CD THREE.JS**
+- 🌱 I’m currently learning **AWS & GCP CI/CD THREE.JS**
 
 - 👯 I’m looking to collaborate on **MERN, MEAN Projects**
 
