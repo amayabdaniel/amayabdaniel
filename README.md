@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Amaya Buitrago</h1>
+<h1 align="center">Hi 👋, I'm Daniel Amaya</h1>
 <img align="right" width="500" alt="coding" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amayabdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="amayabdaniel" /> </p>
