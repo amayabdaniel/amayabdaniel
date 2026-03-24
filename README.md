@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Getting my skills to the next level**
 
-- 🌱 I’m currently learning **AWS, GCP and CI/CD**
-
 - 📫 How to reach me **iamdevdan@outlook.com**
 
 - ⚡ Fun fact **Love Waterpolo**
